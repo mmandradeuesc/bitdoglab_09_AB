@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-Leitura de botão no GPIO 6 e acionamento da Matriz de Leds pela GPIO 07.
-=======
+
 # bitdoglab_09_AB
 
 ## Tarefa 1 - Aula Síncrona 27/01
@@ -26,4 +24,4 @@ Ao executar o programa, as seguintes funcionalidades estarão disponíveis:
 - O **LED vermelho** do LED RGB piscará continuamente 5 vezes por segundo.
 - O **Botão A** incrementará o número exibido na matriz de LEDs WS2812 de 0 a 9.
 - O **Botão B** decrementará o número exibido na matriz de LEDs WS2812 de 0 a 9.
->>>>>>> dd92cdc957edd7d4e4a8b8ec3f5031c347a8b681
+
