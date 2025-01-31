@@ -25,3 +25,6 @@ Ao executar o programa, as seguintes funcionalidades estarão disponíveis:
 - O **Botão A** incrementará o número exibido na matriz de LEDs WS2812 de 0 a 9.
 - O **Botão B** decrementará o número exibido na matriz de LEDs WS2812 de 0 a 9.
 
+- Link do vídeo demonstração do programa: 
+https://drive.google.com/file/d/1TzxeL6xaBLNgdbebjEsXd1tRmFnklPnH/view?usp=sharing
+
