@@ -3,7 +3,7 @@
 
 ## Tarefa 1 - Aula Síncrona 27/01
 
-### Integrantes
+### Integrante
 - Marcel Mascarenhas Andrade
 
 ### Pré-requisitos
