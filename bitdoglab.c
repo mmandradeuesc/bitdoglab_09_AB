@@ -11,8 +11,8 @@
 #define BUTTON_A 5
 #define BUTTON_B 6
 #define LED_RED 13
-#define LED_GREEN 12
-#define LED_BLUE 11
+#define LED_GREEN 11
+#define LED_BLUE 12
 
 // Variáveis globais
 volatile int current_number = 0;
